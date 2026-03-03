@@ -127,7 +127,7 @@ polafusion/
 ├── README.md                          ← You are here
 │
 └── src/
-    └── notebooks/
+    └── code/
     │    ├── augmentation.ipynb         ← Step 1: Build augmentation plan + generate synthetic data
     │    ├── training.ipynb             ← Step 2: Train all 6 model variants (mDeBERTa + XLM-R × 3 subtasks)
     │    └── inference.ipynb            ← Step 3: Load all 8 models, soft-vote, generate submissions
