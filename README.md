@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/SemEval-2026-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Task-Multilingual%20Polarization-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-22-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Kaggle%20A100-red?style=for-the-badge" />
 </p>
 
 <p align="center">
