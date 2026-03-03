@@ -1,4 +1,3 @@
-# PolaFuse
 # PolaFusion 🔥
 ### *SemEval-2026 Task 9 — Multilingual Polarization Detection*
 
